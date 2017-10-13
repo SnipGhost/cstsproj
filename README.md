@@ -2,6 +2,8 @@
 
 [`tsproj.dll`][last-stable]
 
+Все остальное можно посмотреть [тут](https://github.com/SnipGhost/cstsproj/releases/tag/v0.1)!
+
 ## Как пользоваться:
 
 1. Поместите файл с библиотекой `tsproj.dll` к исполняемому файлу `X семестр.exe`
